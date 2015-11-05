@@ -40,6 +40,6 @@ app.use('/api', router);
 
 // START THE SERVER
 // =============================================================================
-app.listen(app.get('port'), app.get('host'), function(){
+app.listen(app.get('port'), function(){
     console.log("Express server listening at %s:%s ",app.get('host'),app.get('port'));
 });
