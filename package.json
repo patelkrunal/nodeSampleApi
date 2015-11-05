@@ -1,14 +1,14 @@
 {
-  "name": "node-api",
+  "name": "krunal-patel.c1-code-challenge",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/scotch-io/node-token-authentication"
+    "url": "https://github.com/patelkrunal/nodeSampleApi"
   },
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Chris Sevilleja <scotch.io>",
+  "author": "Krunal Patel",
   "license": "MIT",
   "dependencies": {
     "body-parser": "~1.0.1",
